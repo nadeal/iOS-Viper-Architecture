@@ -15,7 +15,7 @@ DEPENDENCIES:
   - PKHUD (~> 5.0)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - Alamofire
     - AlamofireImage
     - AlamofireObjectMapper
@@ -31,4 +31,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: d8ca416b2b4ba87ae02b7128a92bd41c83961bfa
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.10.1
